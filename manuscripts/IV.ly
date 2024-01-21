@@ -22,12 +22,29 @@
     }
   >>
   \oneVoice
-  b,8[ r8] b[ d r8] d[ r8] d[ | r8 r8] d8[ r8 r8 r8] d8[ r8 |
-  r8] b[ d r8 r8] b[ r8 r8] | b[ r8 r8 r8] b[ <b d> <b d> <b d>\fermata |
-  \xNote { 8] } b[ d r8 r8] b[ r8 r8] | f'1:32 |
-  f1:32 | r8 b,8[ r8 r8 r8] b8[ <b d>8 8 |
-  8\fermata \xNote { 8] } b[ d r8 r8 r8 r8] | b[ d r8 r8 r8 r8 r8] b[ |
-  d r8 r8 r8 r8] b[ b b | b\fermata \xNote { 8] } f'2:32 r8 r8 |
+  b,8 r8
+  b d r8
+  d r8
+  d | r8 r8
+  d8 r8 r8 r8
+  d8 r8 | r8
+  b d r8 r8
+  b r8 r8 |
+  b r8 r8 r8
+  b <b d> <b d> <b d>\fermata | \xNote { 8 }
+  b d r8 r8
+  b r8 r8 |
+
+  s1:32 | s1:32 | s8
+
+  b8 r8 r8 r8
+  b8 <b d>8 8 | 8\fermata \xNote { 8 }
+  b d r8 r8 r8 r8 |
+  b d r8 r8 r8 r8 r8
+  b | d r8 r8 r8 r8
+  b b b | b\fermata \xNote { 8 }
+
+  s2:32 r8 r8 |
   r8 r8\fermata r8
 
 }

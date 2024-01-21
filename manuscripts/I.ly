@@ -21,19 +21,35 @@
       s4\pp\< s4 s4 s8 s8\f
     }
   >>
-  \oneVoice
-  f1:32\pp
-  f1:32
-  f1:32
-  f2.:32 r4 |
-  r4 r8\fermata r8 f2:32\pp |
-  f1:32
-  f1:32
-  f1:32
-  r4 r8 r8\fermata r8 f4.:32 |
-  f1:32
-  f1:32
-  r4 r8 r8\fermata r8 f4.:32 |
-
+  <<
+    {
+      s8 s8
+      s8 s8 s8
+      s8 s8
+      s8 | s8 s8
+      s8 s8 s8 s8
+      s8 s8 | s8
+      s8 s8 s8 s8
+      s8 s8 s8 |
+      s8 s8 s8 s8
+      r8 r8 r8 r8\fermata | r8
+      s8 s8 s8 s8
+      s8 s8 s8 |
+      s8 s8
+      s8 s8 s8
+      s8 s8
+      s8 | s8 s8
+      s8 s8 s8 s8
+      s8 s8 | s8
+      s8 s8 s8 s8
+      r8 r8 r8 r8\fermata r8
+      s8 s8 s8 s8 s8 s8 |
+      s8 s8 s8 s8 s8 s8 s8
+      s8 | s8 s8 s8 s8 s8
+      r8 r8 r8 | r8\fermata r8
+      s8 s8 s8 s8
+      r8 r8 r8 r8\fermata r8
+    }
+  >>
 
 }

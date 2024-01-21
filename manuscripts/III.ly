@@ -18,23 +18,34 @@
       f'1:32 |
     }
     {
-      s4:32\pp\< s4 s4 s8 s8\f
+      s4:\pp\< s4 s4 s8 s8\f
     }
   >>
   \oneVoice
-  f2.:32\pp r4 |
-  b,8[ r8 r8 b8] d8[ r8 r8 d8] |
-  r4 r8[ d8] r4  d8[ r8] |
-  r8[ b8 d8 r8] r8[ r8 b8 <b d>8]\fermata |
-  \xNote { 8 } r8 r8[ b8] r4 b8[ r8] |
-  r8[ b8 r8 b8] r8[ b8 d8 r8] |
-  d8[ r8 d8 r8] r8[ b8 d8 r8] |
-  r8[ b8] r4 r8[ b8] r4 |
-  r4 b8[ b8]\fermata \xNote { 8 } r8 r8[ b8] |
-  d8[ r8] r4 r8[ b8 d8 r8] |
-  r2 b8[ r8] r4 |
-  r8[ b8 b8 b8]\fermata \xNote { 8 } r8 r4 |
-
-
-
+  s8 s8
+  s s s8
+  s s
+  r8 | b,8 r8
+  r8 b d r8
+  r8 d | r8
+  r8 r8 d r8
+  r8 d r8 |
+  r8 b d r8
+  r8 r8 b <b d>\fermata | \xNote { 8 }
+  r8 r8 b r8
+  r8 b r8 |
+  b r8
+  b d r8
+  d r8
+  d8 | r8 r8
+  b d r8 r8
+  b r8 | r8
+  r8 b r8 r8
+  r8 r8 b | b\fermata \xNote { 8 }
+  r8 r8 b d r8 r8 |
+  r8 r8 b d r8 r8 r8
+  r8 | r8 b r8 r8 r8
+  r8 b <b d> | <b d>\fermata \xNote { 8 }
+  b r8 r8 r8
+  b <b d> | <b d> <b d>\fermata \xNote { 8 }
 }
