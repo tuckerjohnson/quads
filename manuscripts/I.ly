@@ -32,7 +32,7 @@
       s8 s8 s8 s8
       s8 s8 s8 |
       s8 s8 s8 s8
-      r8 r8 r8 r8\fermata | r8
+      r8 r8 r8 r8 | r8
       s8 s8 s8 s8
       s8 s8 s8 |
       s8 s8
@@ -42,13 +42,13 @@
       s8 s8 s8 s8
       s8 s8 | s8
       s8 s8 s8 s8
-      r8 r8 r8 r8\fermata r8
+      r8 r8 r8 r8 r8
       s8 s8 s8 s8 s8 s8 |
       s8 s8 s8 s8 s8 s8 s8
       s8 | s8 s8 s8 s8 s8
-      r8 r8 r8 | r8\fermata r8
+      r8 r8 r8 | r8 r8
       s8 s8 s8 s8
-      r8 r8 r8 r8\fermata r8
+      r8 r8 r8 r8 r8
     }
   >>
 

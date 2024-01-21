@@ -32,7 +32,7 @@
       s8 s8 s8 s8
       s8 s8 s8 |
       s8 s8 s8 s8
-      r8 r8 r8 r8\fermata | r8
+      r8 r8 r8 r8 | r8
       s8 s8 s8 s8
       s8 s8 s8 |
       s8 s8
@@ -42,13 +42,13 @@
       r8 r8 b r8
       r8 b | r8
       r8 r8 b r8
-      r8 r8 r8 b\fermata \xNote { 8 }
+      r8 r8 r8 b b
       r8 r8 r8 r8 b r8 |
       r8 r8 r8 r8 b d r8
       r8 | r8 r8 b d r8
-      r8 r8 b | <b d>\fermata \xNote { 8 }
+      r8 r8 b | <b d> <b d>
       r8 b d r8
-      r8 r8 b <b d>\fermata \xNote { 8 }
+      r8 r8 b <b d> <b d>
     }
   >>
 

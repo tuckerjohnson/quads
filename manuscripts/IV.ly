@@ -31,20 +31,20 @@
   b d r8 r8
   b r8 r8 |
   b r8 r8 r8
-  b <b d> <b d> <b d>\fermata | \xNote { 8 }
+  b <b d> <b d> <b d> <b d>
   b d r8 r8
   b r8 r8 |
 
   s1:32 | s1:32 | s8
 
   b8 r8 r8 r8
-  b8 <b d>8 8 | 8\fermata \xNote { 8 }
+  b8 <b d>8 8 | 8 8
   b d r8 r8 r8 r8 |
   b d r8 r8 r8 r8 r8
   b | d r8 r8 r8 r8
-  b b b | b\fermata \xNote { 8 }
+  b b b | b b
 
   s2:32 r8 r8 |
-  r8 r8\fermata r8
+  r8 r8 r8
 
 }
