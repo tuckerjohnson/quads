@@ -49,6 +49,14 @@
       r8 r8 b | <b d> <b d>
       r8 b d r8
       r8 r8 b <b d> <b d>
+      r8 b8 d8 r8
+      r8 | d8 s8
+      r8 r8 d8 r8
+      r8 d8 | r8
+      r8 r8 d8 r8
+      r8 r8 r8 | d8 d8
+      r8 r8 r8 r8 d8 r8 |
+      r8 r8 r8 d8 d8
     }
   >>
 

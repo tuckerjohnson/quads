@@ -44,7 +44,16 @@
   b | d r8 r8 r8 r8
   b b b | b b
 
-  s2:32 r8 r8 |
-  r8 r8 r8
+  s2:32
+  r8 r8 | r8 r8 r8
+
+  s8 s8 s8 s8
+  s8 | s8 s8
+  s8 s8 s8 s8
+  s8 s8 | s8
+  b8 r8 r8 r8
+  b8 <b d>8 8 | 8 8
+  b8 d8 r8 r8 r8 r8 |
+  b8 b8 b8 b8 8
 
 }
