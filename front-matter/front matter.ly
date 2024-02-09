@@ -3,7 +3,7 @@
 front-matter = \markuplist {
  \fill-line {
    \left-column {
-     \line { \bold \xtitle " [2023]" }
+     \line { \bold \xtitle " [2024]" }
      \line { \xinst " | " \xdur }
      \line { \xcomp }
 

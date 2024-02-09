@@ -28,7 +28,7 @@
         \include "manuscripts/IV.ly"
       >>
     >>
-    \midi { }
+    %\midi { }
     \layout {
       \context {
         \Score

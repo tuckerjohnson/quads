@@ -23,6 +23,9 @@
   >>
   <<
     {
+
+      \sectionLabel \markup { \box \number 1 }
+
       s8 s8
       s8 s8 s8
       s8 s8
@@ -57,6 +60,35 @@
       r8 r8 r8 | r8 r8
       s8 s8 s8 s8 s8 s8 |
       r8 r8 r8 r8 r8
+
+      s8 s8 s8 | s8
+      r8 r8 r8 r8 r8
+
+      \sectionLabel \markup { \box \number 2 }
+
+      s8 s8 | s8 s8 s8 s8
+      s8 s8 s8 s8 | s8
+
+      s8 s8 s8 s8
+      s8 s s | s s
+
+      s s s s s s |
+      s s s s s
+
+      s s s | s
+      s s s s s
+
+      s s | s s
+      s s s s s
+
+      s | s s s
+      s s s s s |
+
+      s s s s s s
+      s s | s s s
+
+      \sectionLabel \markup { \box \number 3 }
+
     }
   >>
 
