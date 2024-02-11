@@ -38,6 +38,12 @@
         \override Hairpin.to-barline = ##f
         \override Staff.pedalSustainStyle = #'mixed
       }
+      \context {
+        \Voice
+        \consists Duration_line_engraver
+        \override DurationLine.style = #'dotted-line
+        \override DurationLine.dash-period = 2
+      }
     }
   }
 

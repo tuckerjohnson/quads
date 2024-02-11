@@ -22,11 +22,11 @@ front-matter = \markuplist {
       \fill-line {
         \column { \null }
         \left-column {
-          \override #'(line-width . 100) \justify {
-            As a part of \italic "Matchstick Percussion's" commissioning project
-            \concat { \underline "Strike Anywhere" "," } \bold \italic "Quad(s)"
-            is designed to use a minimal instrumentation that can be easily
-            transported:
+          \override #'(line-width . 80) \justify {
+            As a part of \italic "Matchstick Percussion's" commissioning
+            project \concat { \underline "Strike Anywhere" "," } \bold
+            "Quad(s)" is designed to use a minimal instrumentation that can be
+            easily transported:
           }
         }
         \column { \null }
@@ -38,8 +38,8 @@ front-matter = \markuplist {
   \fill-line {
 	\column { \null }
     \box \column {
-      \line { \number 8 \bold "metal pipes" }
-      \override #'(padding . 2)
+      \line { \number 8 \huge \bold "metal pipes" }
+      \override #'(padding . 4)
       \table
         #'(-1 -1 1)
         {
@@ -56,8 +56,8 @@ front-matter = \markuplist {
     }
     \column {
       \box \column {
-      \line { \number 4 \bold "wood slats" }
-      \override #'(padding . 2)
+      \line { \number 4 \huge \bold "wood slats" }
+      \override #'(padding . 4)
       \table
         #'(-1 -1 1)
         {
