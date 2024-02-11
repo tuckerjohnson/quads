@@ -84,5 +84,15 @@
 
   \sectionLabel \markup { \box \number 3 }
 
+  d8 r8 r8 r8
+  d8 | r8 r8
+  d8 r8 r8 r8
+  d8 r8 | r8
+  b8 d8 r8 r8
+  b8 <b d>8 8 | 8 8
+
+  b8 d8 r8 r8
+  b8 r8 | r8
+  b8
 
 }
