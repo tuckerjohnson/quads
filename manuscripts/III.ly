@@ -144,5 +144,32 @@
   b8 r8 | r2
   b8 8 8 8 |
 
+  r4 d8 b8 r4
+  r4 | d8 8 8
+
+  r8 r4 d8 r8 |
+  r4 r8 d8 8 8
+
+  r4 | d8 r8 r4
+  r4 r8 d8 | r2
+  r4 d8 r8 |
+  r2 r8 d8 r4 |
+  r4 r8 d8 r2
+  | r8 d8 b8 r8
+  r2 | b8 r8
+  r4 r4 r8 b8 | r2
+  r4 d8 b8 |
+  r2 r8 d8 b8 r8 |
+  r2 b8 r8
+  r4 |
+  \once \omit Voice.Stem
+  \improvisationOn
+  c4\-
+  \improvisationOff
+  s2.
+  s1*6
+
+  | s8 s8 s8
+
 
 }
