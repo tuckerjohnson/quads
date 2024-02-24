@@ -186,6 +186,36 @@
 
       \sectionLabel \markup { \box \number 5 }
 
+      r8 b8 d8
+      r4 | d8 r8
+      r4 d8 r8
+      r8 d8 |
+      r4 r8 d8
+      r2 | d8 8
+
+      r4 d8 r8
+      r4 | r8 d8 8
+
+      r8 r4 r8 d8 |
+      r2 d8 8
+
+      r4 | d8 r8
+      r4 r8 d8 8
+
+      r8 | r8 d8
+      r4 r4 d8 8 |
+
+      r2 d8 r8
+      r4 | r4 r8 d8
+      r2 | r8 d8
+      r4 r4 d8 8 |
+
+      r2 d8 r8 r4
+      | r8 d8 8
+
+      \sectionLabel \markup { \box \number 6 }
+
+
 
     }
   >>

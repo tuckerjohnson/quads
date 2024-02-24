@@ -171,5 +171,36 @@
 
   | s8 s8 s8
 
+  \sectionLabel \markup { \box \number 5 }
+
+  s8 s8 s8 s8
+  s8 | s8 s8
+  s8 s8 s8 s8
+  s8 s8 | s8
+  s8 s8 s8 s8
+  s8 s8 s8 | s8 s8
+
+  s8 s8 s4
+  s8 s8 | s8 s8 s8
+
+  s8 s8 s8 s8 s8 | s8
+  s8 s8 s8 s8 s8
+
+  s8 s8 | s8 s8
+  s8 s8 s8 s8 s8
+
+  s8 | r2
+  b8 8 8 8 |
+
+  r8 b8 d8 r8 r4
+  r8 b8 | d8 r8 r4
+  r4 b8 r8 | r2
+  b8 8 8 8 |
+
+  r8 b8 d8 r8 r4
+  r8 d8 | 8 8 8
+
+  \sectionLabel \markup { \box \number 6 }
+
 
 }
