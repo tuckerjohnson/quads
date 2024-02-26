@@ -1,7 +1,7 @@
 % Strike-Anywhere project
 
 %texts
-xtitle = \markup { "Quad(s)" }
+xtitle = \markup { "Quads I" }
 xsub = \markup { for Matchstick }
 xcomp = \markup { Tucker Johnson }
 xinst = \markup  { percussion quartet }
