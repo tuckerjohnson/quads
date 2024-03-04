@@ -283,6 +283,90 @@
 
       \sectionLabel \markup { \box \number 8 }
 
+      r8 d8 b8 r2
+      | d8 b8 r4 r2
+      | d8 b8 r4 r2
+      | d8 b8 r4 r4
+      r8 d8 | b8 r8 r4
+      d8 <d b>8 8 8 |
+
+      r8 d8 b8 r8 r4
+      r8 d8 | b8 r8 r4 r4
+      r8 d8 | b8 r8 r4 r4
+      r8 d8 | b8 r8 r4 r4
+      r8 d8 | b8 r8 r4 r4
+      r8 b8 | r2 r4
+      r8 b8 | r2 r4
+      b8 r8 | r2
+      r8 b8 r4 | r4
+      r8 b8 8 8 8
+
+      r8 | b8 r8 r4
+      r8 b8 8 8 |
+
+      r4 b8 r8 r2
+      | b8 r8 r4 r4
+      b8 r8 | r2
+      b8 8 8 8 |
+
+      r8 b8 r4
+      r8 b8 8 8 | 8
+
+      r8 r8 b8 r2
+      | b8 8 8 8
+
+      r8 b8 r4 |
+      r4 b8 8 8
+
+      \sectionLabel \markup { \box \number 9 }
+
+      r8 b8 r8 | r4
+      \once \omit Voice.Stem
+      \improvisationOn
+      c4\-
+      \improvisationOff
+      s8 s8 s4 |
+      s8 s8 s8
+      s8 s8 s8 s8
+      s8 | s8 s8 s8 s8
+
+      s8 s8 s4 |
+      s8 s8 s8
+      s8 s4 s8
+      s8 | s4
+      s8 s8 s4
+      s8 s8 | s8 s8 s8
+
+      s8 s8 s8 s4
+      | s8 s8 s8 s8
+
+      s4 s8 s8 | s2
+      s8 s8 s8
+
+      s8 | s8 s8 s8 s8 s4
+      s8 s8 | s8 s8 s4
+      s4 s8 s8 | s4
+      s8 s8 s8 s8 s8
+
+      s8 | s8 s8 s4 s4
+      s8 s8 | s8 s8
+
+      s8 s8 s4
+      s8 s8 | s8 s8 s8
+
+      \sectionLabel \markup { \box \number 10 }
+
+      s2
+      s8 | s2
+
+      s2 | s1 | s1 |
+
+      s1 | s1 | s1 |
+      s1 | s1 |
+      s1 | s1 |
+      s1 | s1 \bar "||"
+
+      s4_\markup \teeny \italic "gradually decrescendo and ritardando" s4 s4\longfermata s4 \bar "|."
 
     }
   >>
